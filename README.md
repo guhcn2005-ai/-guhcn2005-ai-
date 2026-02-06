@@ -1,8 +1,8 @@
 # 👋 Gustavo Henrique Cardoso
 
-##  Desenvolvedor Backend Júnior | Estudante de Tecnologia
+##  Desenvolvedor Backend  | Estudante de Tecnologia
 
-Sou desenvolvedor júnior com foco em **backend**, atualmente estudando e desenvolvendo projetos próprios para evoluir minhas habilidades. Tenho experiência com criação de sistemas, APIs, projetos web e gosto de aprender novas tecnologias na prática. Busco sempre escrever código limpo, funcional e bem estruturado.
+Sou desenvolvedor  com foco em **backend**, atualmente estudando e desenvolvendo projetos próprios para evoluir minhas habilidades. Tenho experiência com criação de sistemas, APIs, projetos web e gosto de aprender novas tecnologias na prática. Busco sempre escrever código limpo, funcional e bem estruturado.
 
 ---
 
@@ -14,7 +14,8 @@ Sou desenvolvedor júnior com foco em **backend**, atualmente estudando e desenv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native"/>
+
+  
 </p>
 
 ---
